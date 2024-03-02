@@ -1,6 +1,0 @@
-print("hi")
-print("regina")
-print("mary")
-print("Hetvika")
-print("loganathan")
-print("this is test3.py")
