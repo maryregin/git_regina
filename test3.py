@@ -1,0 +1,5 @@
+print("hi")
+print("regina")
+print("mary")
+print("Hetvika")
+print("loganathan")
